@@ -63,7 +63,7 @@ Visualizes attrition rates across age groups and gender.
 
 ## Dashboard Preview
 
-![Dashboard] HR analytics dashboard.png
+![Dashboard] (HR_analytics_dashboard.png)
 
 
 
