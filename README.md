@@ -63,20 +63,18 @@ Visualizes attrition rates across age groups and gender.
 
 ## Dashboard Preview
 
-![Dashboard](HR analytics dashboard.png
-)
+![Dashboard] HR analytics dashboard.png
+
 
 
 ## Project Outcome
 
 This dashboard enables HR teams to monitor employee retention metrics and identify workforce trends that can improve employee engagement and reduce turnover.
 
----
+
 
 ## Author
 
 Trupti Naikwadi
 
-Electronics & Telecommunication Engineering Student
 
-Aspiring Data Analyst
